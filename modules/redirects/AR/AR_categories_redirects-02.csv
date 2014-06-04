@@ -1,0 +1,18 @@
+Country_ID;Parent;Current Category;Type;Current URL;Current ID;Category to redirect to;Type;URL to redirect to;New ID
+2;185;Coleccionables y Antigüedades;Subcategory;colecciones-antiguedades-cat-214;214;Arte - Antigüedades;Subcategory;arte-antiguedades-cat-862;862
+2;185;Libros - Revistas;Subcategory;libros-revistas-cat-215;215;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860
+2;185;CDs y Discos;Subcategory;cd-disco-cat-364;364;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860
+2;185;DVDs;Subcategory;dvd-cat-238;238;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860
+2;185;Instrumentos Musicales;Subcategory;instrumentos-musicales-cat-243;243;Instrumentos Musicales;Subcategory;instrumentos-musicales-cat-861;861
+2;185;Artículos deportivos - bicicletas;Subcategory;articulos-deportivos-bicicletas-cat-234;234;Deportes - Bicicletas;Subcategory;deportes-bicicletas-cat-864;864
+2;185;Negocios - Insumos;Subcategory;negocios-insumos-cat-594;594;Negocios y Oficinas;Subcategory;Negocios-oficinas-cat-868;868
+2;185;Salud y Belleza;Subcategory;salud-y-belleza-cat-227;227;Salud y Belleza;Subcategory;salud-belleza-cat-816;816
+2;185;Joyas - Relojes;Subcategory;joyas-relojes-cat-229;229;Relojes - Joyas - Accesorios;Subcategory;Relojes-joyas-accesorios-cat-818;818
+2;16;Alquiler de cuartos;Subcategory;compartir-departamento-cat-301;301;Departamento - Casa en alquiler;Subcategory;departamento-casa-en-alquiler-cat-363;363
+2;16;Intercambio de Casas;Subcategory;intercambio-de-casas-cat-567;567;Alquiler temporario;Subcategory;alquiler-temporario-cat-388;388
+2;16;Locales y fondos de comercio;Subcategory;locales-en-alquiler-en-venta-cat-415;415;Oficinas y consultorios;Subcategory;oficinas-locales-cat-368;368
+2;185;Hogar - Jardín - Muebles;Subcategory;hogar-jardin-muebles-cat-228;228;Casa - Muebles - Jardín;Parent;casa-muebles-jardin-cat-806;806
+2;185;Electrónicos y electrodomésticos;Subcategory;electronica-cat-366;366;Electrónica - Video;Parent;electronica-video-cat-800;800
+2;185;Segunda mano;Subcategory;segunda-mano-cat-568;568;Home Page;Home Page;olx.com.ar;0
+2;185;Ropa - Accesorios;Subcategory;ropa-accesorios-cat-217;217;Ropa y Calzado;Subcategory;ropa-calzado-cat-817;817
+2;185;Varios;Subcategory;otras-ventas-cat-210;210;Home Page;Home Page;olx.com.ar;0

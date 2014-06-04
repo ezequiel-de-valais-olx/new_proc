@@ -1,0 +1,22 @@
+Country;Parent;Current Category;Type;Current URL;Current ID;Category to redirect to;Type;URL to redirect to;New ID
+229;Compra - Venta;Coleccionables - Antigüedades;Subcategory;colecciones-antiguedades-cat-214;214;Arte - Antigüedades;Subcategory;arte-antiguedades-cat-862;862
+229;Compra - Venta;Libros - Revistas;Subcategory;libros-revistas-cat-215;215;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860
+229;Compra - Venta;CD - Disco;Subcategory;cd-disco-cat-364;364;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860
+229;Compra - Venta;DVD;Subcategory;dvd-cat-238;238;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860
+229;Compra - Venta;Instrumentos Musicales;Subcategory;instrumentos-musicales-cat-243;243;Instrumentos Musicales;Subcategory;instrumentos-musicales-cat-861;861
+229;Compra - Venta;Artículos deportivos - bicicletas;Subcategory;articulos-deportivos-bicicletas-cat-234;234;Deportes - Bicicletas;Subcategory;deportes-bicicletas-cat-864;864
+229;Compra - Venta;Comercio - Industria;Subcategory;comercio-industria-cat-594;594;Negocios y Oficinas;Subcategory;Negocios-oficinas-cat-868;868
+229;Compra - Venta;Salud y Belleza;Subcategory;salud-y-belleza-cat-227;227;Salud y Belleza;Subcategory;salud-belleza-cat-816;816
+229;Compra - Venta;Joyas - Relojes;Subcategory;joyas-relojes-cat-229;229;Relojes - Joyas - Accesorios;Subcategory;Relojes-joyas-accesorios-cat-818;818
+229;Inmuebles y Propiedades;Compartir departamento;Subcategory;compartir-departamento-cat-301;301;Apartamentos - Casas en Alquiler;Subcategory;departamento-casa-en-alquiler-cat-363;363
+229;Inmuebles y Propiedades;Intercambio de Casas;Subcategory;intercambio-de-casas-cat-567;567;Alquiler temporario - Vacaciones;Subcategory;alquiler-temporario-cat-388;388
+229;Inmuebles y Propiedades;Locales en alquiler - en venta;Subcategory;locales-en-alquiler-en-venta-cat-415;415;Oficinas y Locales;Subcategory;oficinas-locales-cat-368;368
+229;Compra - Venta;Hogar - Jardín - Muebles;Subcategory;hogar-jardin-muebles-cat-228;228;Casa - Muebles - Jardín;Parent;casa-muebles-jardin-cat-806;806
+229;Compra - Venta;Electrónica;Subcategory;electronica-cat-366;366;Electrónicos - Video;Parent;electronicos-video-cat-800;800
+229;Compra - Venta;Segunda mano;Subcategory;segunda-mano-cat-568;568;Home Page;Home Page;olx.com.ve;0
+229;Compra - Venta;Ropa - Accesorios;Subcategory;ropa-accesorios-cat-217;217;Ropa y Calzado;Subcategory;ropa-calzado-cat-817;817
+229;Compra - Venta;Otras ventas;Subcategory;otras-ventas-cat-210;210;Home Page;Home Page;olx.com.ve;0
+229;Compra - Venta;Juguetes - Juegos;Subcategory;juguetes-juegos-cat-211;211;Juegos - Juguetes;Subcategory;juegos-juguetes-cat-865;865
+229;Compra - Venta;Artículos para Niños y Bebés;Subcategory;articulos-para-ninos-y-bebes-cat-365;365;Bebés y Niños;Subcategory;bebes-ninos-cat-866;866
+229;Inmuebles y Propiedades;Estacionamiento;Subcategory;estacionamiento-cat-302;302;Propiedades - Inmuebles;Parent;inmuebles-y-propiedades-cat-16;16
+229;Compra - Venta;Compra - Venta;Parent;compra-venta-cat-185;185;Home Page;Home Page;olx.com.ve;0

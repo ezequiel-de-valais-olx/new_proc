@@ -1,0 +1,13 @@
+Country_ID;Type;Current URL;Current ID;Type;URL to redirect to;New ID
+64;subcategory;colecciones-antiguedades;214;subcategory;arte-antiguedades-cat-189;862
+64;subcategory;libros-revistas;215;subcategory;libros-cd-dvd;860
+64;subcategory;cd-disco;364;parent;libros-cd-dvd;860
+64;subcategory;dvd;238;optional;libros-cd-dvd;860
+64;subcategory;instrumentos-musicales;243;subcategory;instrumentos-musicales;861
+64;subcategory;articulos-deportivos-bicicletas;234;subcategory;deportes-bicicletas;864
+64;subcategory;comercio-industria;594;parent;almacenes-oficinas;868
+64;subcategory;salud-y-belleza;227;optional;salud-belleza;816
+64;parent;joyas-relojes;0;subcategory;relojes-joyas-accesorios;818
+64;parent;compartir-piso;0;subcategory;piso-en-alquiler;363
+64;parent;intercambio-de-casas;0;parent;alquiler-temporal;388
+64;parent;locales-en-alquiler-en-venta;0;optional;oficinas-locales;368

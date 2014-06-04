@@ -1,0 +1,12 @@
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '214' and to_category_id = '862';
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '215' and to_category_id = '860';
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '364' and to_category_id = '860';
+DELETE FROM olx_listing_redirect WHERE country_id = '64', from_category_id = '238', to_category_id = '860', to_first_level_slug = 'libros-cd-dvd';
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '243' and to_category_id = '861';
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '234' and to_category_id = '864';
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '594' and to_category_id = '868';
+DELETE FROM olx_listing_redirect WHERE country_id = '64', from_category_id = '227', to_category_id = '816', to_first_level_slug = 'salud-belleza';
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '0' and to_category_id = '818';
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '0' and to_category_id = '363';
+DELETE FROM olx_listing_redirect WHERE country_id = '64' AND from_category_id = '0' and to_category_id = '388';
+DELETE FROM olx_listing_redirect WHERE country_id = '64', from_category_id = '0', to_category_id = '368', to_first_level_slug = 'oficinas-locales';

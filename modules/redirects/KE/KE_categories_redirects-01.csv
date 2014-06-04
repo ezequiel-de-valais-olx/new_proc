@@ -1,0 +1,10 @@
+Country;Parent ;Current Category;Type;Current URL;Current ID;Category to redirect to;Type;URL to redirect to;New ID
+110;For Sale;Animals;Subcategory;animals-cat-312;312;Animals and Pets;Parent;animals-pets-cat-811;811
+110;For Sale;Mobile Phones - Accessories;Subcategory;mobile-phones-accessories-cat-219;219;Mobile Phones - Tablets;Parent;mobile-phones-tablets-cat-830;830
+110;For Sale;Cameras - Camera Accessories;Subcategory;cameras-camera-accessories-cat-218;218;Cameras and Accessories;Subcategory;cameras-accessories-cat-804;804
+110;For Sale;Computers - Hardware;Subcategory;computers-hardware-cat-240;240;Computers - Laptops;Subcategory;computers-laptops-cat-803;803
+110;For Sale;Video Games - Consoles;Subcategory;video-games-consoles-cat-209;209;Video Games - Consoles;Subcategory;video-games-consoles-cat-802;802
+110;For Sale;Tickets;Subcategory;tickets-cat-402;402;Home Page;Home Page;olx.com.ke;0
+110;Vehicles;Boats & watercrafts;Subcategory;boats-watercrafts-cat-376;376;Boats and Watercrafts;Optional;q/boats-watercrafts/c-380;380
+110;Vehicles;RVs - Campers - Caravans;Subcategory;rvs-campers-caravans-cat-417;417;RVs - Campers - Caravans;Optional;q/rvs-campers-caravans/c-380;380
+110;Vehicles;Tractors - Agricultural Equipments;Subcategory;tractors-agricultural-equipments-cat-412;412;Trucks - Commercial Vehicles;Subcategory;trucks-commercial-vehicles-cat-416;416

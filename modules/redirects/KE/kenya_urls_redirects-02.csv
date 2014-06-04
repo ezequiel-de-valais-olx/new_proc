@@ -1,0 +1,22 @@
+Country;Parent ;Current Category;Type;Current URL;Current ID;Category to redirect to;Type;URL to redirect to;New ID
+110;For Sale;Art - Collectibles;Subcategory;art-collectibles-cat-214;214;Art - Collectibles;Subcategory;art-collectibles-cat-862;862
+110;For Sale;Books - Magazines;Subcategory;books-magazines-cat-215;215;Books - CDs - DVDs;Subcategory;books-cd-dvd-cat-860;860
+110;For Sale;CDs - Records;Subcategory;cds-records-cat-364;364;Books - CDs - DVDs;Subcategory;books-cd-dvd-cat-860;860
+110;For Sale;DVD;Subcategory;dvd-cat-238;238;Books - CDs - DVDs;Subcategory;books-cd-dvd-cat-860;860
+110;For Sale;Musical Instruments;Subcategory;musical-instruments-cat-243;243;Musical Instruments;Subcategory;musical-instruments-cat-861;861
+110;For Sale;Sporting Goods - Bicycles;Subcategory;sporting-goods-bicycles-cat-234;234;Sporting goods - Bicycles;Subcategory;sporting-goods-bicycles-cat-864;864
+110;For Sale;Business - Industry;Subcategory;business-industry-cat-594;594;Office and Commercial Furniture ;Subcategory;Office-commercial-furniture-cat-868;868
+110;For Sale;Health - Beauty;Subcategory;health-beauty-cat-227;227;Health and Beauty;Subcategory;health-beauty-cat-816;816
+110;For Sale;Jewelry - Watches;Subcategory;jewelry-watches-cat-229;229;Watches - Jewelry - Accessories;Subcategory;Watches-jewelry-accessories-cat-818;818
+110;Real State;Rooms for Rent - Shared;Subcategory;rooms-for-rent-shared-cat-301;301;Houses - Apartments for Rent;Subcategory;houses-apartments-for-rent-cat-363;363
+110;Real State;Housing Swap;Subcategory;housing-swap-cat-567;567;Vacation Rentals;Subcategory;vacation-rentals-cat-388;388
+110;Real State;Shops for Rent - Sale;Subcategory;shops-for-rent-sale-cat-415;415;Office - Commercial Space;Subcategory;office-commercial-space-cat-368;368
+110;For Sale;Home - Furniture - Garden Supplies;Subcategory;home-furniture-garden-supplies-cat-228;228;Home - Furniture - Garden;Parent;home-furniture-garden-cat-806;806
+110;For Sale;Electronics;Subcategory;electronics-cat-366;366;Electronics - Video;Parent;electronics-video-cat-800;800
+110;For Sale;Moving & Clearance Sale;Subcategory;moving-clearance-sale-cat-568;568;Home Page;Home Page;olx.co.ke;0
+110;For Sale;Clothing;Subcategory;clothing-cat-217;217;Clothing and Shoes;Subcategory;ropa-calzado-cat-817;817
+110;For Sale;Everything Else;Subcategory;everything-else-cat-210;210;Home Page;Home Page;olx.co.ke;0
+110;For Sale;Toys - Games - Hobbies;Subcategory;toys-games-hobbies-cat-211;211;Toys and Games;Subcategory;toys-games-cat-865;865
+110;For Sale;For Babies - Infants;Subcategory;for-babies-infants-cat-365;365;Babies and Kids;Subcategory;babies-kids-cat-866;866
+110;Real State;Parking Spots;Subcategory;parking-spots-cat-302;302;Real State;Parent;real-estate-cat-16;16
+110;Real State;Paying Guest;Subcategory;paying-guest-cat-418;418;Houses - Apartments for Rent;Subcategory;houses-apartments-for-rent-cat-363;363

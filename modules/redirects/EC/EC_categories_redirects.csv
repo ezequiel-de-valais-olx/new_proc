@@ -1,0 +1,9 @@
+Country;Parent ;Current Category;Type;Current URL;Current ID;Category to redirect to;Type;URL to redirect to;New ID
+62;For Sale;Animales;Subcategory;animales-cat-312;312;Animales y Mascotas;Parent;animales-mascotas-cat-811;811
+62;For Sale;Celulares - Teléfonos;Subcategory;celulares-telefonos-cat-219;219;Teléfonos - Tablets;Parent;telefonos-tablets-cat-830;830
+62;For Sale;Fotografía - Imagen - Sonido;Subcategory;fotografia-imagen-sonido-cat-218;218;Cámaras y accesorios;Subcategory;camaras-accesorios-cat-804;804
+62;For Sale;Computadoras - Informática;Subcategory;computadoras-informatica-cat-240;240;Computadoras - Laptops;Subcategory;computadoras-laptops-cat-803;803
+62;For Sale;Video juegos - Consolas ;Subcategory;video-juegos-consolas-cat-209;209;Video Juegos - Consolas;Subcategory;video-juegos-consolas-cat-802;802
+62;For Sale;Tickets & Entradas;Subcategory;tickets-entradas-cat-402;402;Home Page;Home Page;olx.com.ec;0
+62;Vehicles;Barcos;Subcategory;barcos-cat-376;376;Barcos y lanchas;Optional;q/barcos-lanchas/c-380;380
+62;Vehicles;Casas rodantes - Trailers - Remolques - Caravanas;Subcategory;casas-rodantes-trailers-remolques-caravanas-cat-417;417;Trailers - Remolques;Optional;q/remolques-trailers/c-380;380

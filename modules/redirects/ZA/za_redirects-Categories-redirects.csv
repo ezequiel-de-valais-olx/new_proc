@@ -1,0 +1,58 @@
+Country_ID;Parent;Current Category;Type;Current URL;Current ID;Category/FLO/SLO to redirect to;Type;url to redirect to;New ID;New Parent
+193;362;Other Vehicles;Subcategory;other-vehicles-cat-380;380;Trucks - Vans - Commercial;Subcategory;trucks-vans-commercial-cat-416;416;362
+193;362;Rentals;Subcategory;rentals-cat-651;651;Vehicles;Category;vehicles-cat-362;362;362
+193;362;Vehicle – servicing;Subcategory;vehicle-servicing-cat-650;650;Vehicle – servicing;Optional;vehicle-servicing;824;821
+193;362;Aviation;Subcategory;aviation-cat-653;653;Boats - Aviation;Subcategory;boats-aviation-cat-376;376;362
+193;362;Tyres, rims & exhausts;Subcategory;tyres-rims-exhausts-cat-649;649;Car Parts;Subcategory;car-parts-cat-377;377;362
+193;16;Housing Swap;Subcategory;housing-swap-cat-567;567;Real Estate;Category;real-estate-cat-16;16;16
+193;16;Parking Spots;Subcategory;parking-spots-cat-302;302;Real Estate;Category;real-estate-cat-16;16;16
+193;191;Services;Category;services-cat-191;191;Jobs & Services;Category;jobs-services-cat-821;821;821
+193;191;Event Services;Subcategory;event-services-cat-324;324;Event Services;Optional;event-services;824;821
+193;191;Moving - Storage;Subcategory;moving-storage-cat-371;371;Moving - Storage;Optional;moving-storage;824;821
+193;191;Photography & video;Subcategory;photography-video-cat-641;641;Photography & video;Optional;photography-video;824;821
+193;191;Legal services;Subcategory;legal-services-cat-640;640;Legal Services;Optional;legal-services;824;821
+193;191;Interior design & décor;Subcategory;interior-design-decor-cat-638;638;Interior design & décor;Optional;interior-design-decor;824;821
+193;191;Advertising & marketing;Subcategory;advertising-marketing-cat-630;630;Advertising- & marketing;Optional;advertising-marketing;824;821
+193;191;Babysitter – Nanny;Subcategory;babysitter-nanny-cat-372;372;Babysitter - Domestic Help - Gardening;Optional;babysitter-domestic-help-gardening;824;821
+193;191;Recruitment;Subcategory;recruitment-cat-642;642;Services;Subcategory;services-cat-824;824;821
+193;191;Removals;Subcategory;removals-cat-643;643;Moving - Storage;Optional;moving-storage;824;821
+193;191;Horoscopes - Tarot;Subcategory;horoscopes-tarot-cat-206;206;Services;Subcategory;services-cat-824;824;821
+193;191;Casting - Auditions;Subcategory;casting-auditions-cat-370;370;Services;Subcategory;services-cat-824;824;821
+193;191;Catering;Subcategory;catering-cat-631;631;Catering;Optional;event-services;824;821
+193;191;Computer;Subcategory;computer-cat-322;322;Computer;Optional;computer;824;821
+193;191;Household - Domestic Help;Subcategory;household-domestic-help-cat-414;414;Babysitter - Domestic Help - Gardening;Optional;babysitter-domestic-help–gardening;824;821
+193;191;Cleaning & domestic work;Subcategory;cleaning-domestic-work-cat-632;632;Babysitter - Domestic help – Gardening;Optional;babysitter-domestic-help–gardening;824;821
+193;191;Landscaping & gardening;Subcategory;landscaping-gardening-cat-639;639;Babysitter - Domestic help – Gardening;Optional;babysitter-domestic-help–gardening;824;821
+193;191;Entertainment & Parties;Subcategory;entertainment-parties-cat-634;634;Event Services;Optional;event-services;824;821
+193;191;Esoteric;Subcategory;esoteric-cat-635;635;Services;Subcategory;services-cat-824;824;821
+193;191;Health - Beauty - Fitness;Subcategory;health-beauty-fitness-cat-199;199;Health - Beauty - Fitness;Optional;health-beauty-fitness;824;821
+193;191;Fitness & personal training;Subcategory;fitness-personal-training-cat-636;636;Health - Beauty - Fitness;Optional;health-beauty-fitness;824;821
+193;191;Funerals;Subcategory;funerals-cat-637;637;Services;Optional;services-cat-824;824;821
+193;191;Construction & renovation;Subcategory;construction-renovation-cat-633;633;Construction - Renovation - Repairs;Optional;construction-renovation-repairs;824;821
+193;191;Repair;Subcategory;repair-cat-198;198;Construction - Renovation - Repairs;Optional;construction-renovation-repairs;824;821
+193;191;Security & fencing;Subcategory;security-fencing-cat-644;644;Security & fencing;Optional;security-fencing;824;821
+193;191;Sewing & upholstery;Subcategory;sewing-upholstery-cat-645;645;Sewing & upholstery;Optional;sewing-upholstery;824;821
+193;191;Training & courses;Subcategory;training-courses-cat-646;646;Classes;Optional;classes;824;821
+193;191;Transport;Subcategory;transport-cat-647;647;Transport;Optional;transport;824;821
+193;191;Travel & tourism services;Subcategory;travel-tourism-services-cat-648;648;Travel & tourism services;Optional;travel-tourism-services;824;821
+193;191;Writing - Editing - Translating;Subcategory;writing-editing-translating-cat-323;323;Writing - Editing - Translating;Optional;writing-editing-translating;824;821
+193;191;Other Services;Subcategory;other-services-cat-207;207;Services;Subcategory;services-cat-824;824;821
+193;186;Classes;Category;classes-cat-186;186;Classes;Optional;classes;824;821
+193;186;Computer - Multimedia Classes;Subcategory;computer-multimedia-classes-cat-281;281;Classes;Optional;classes;824;821
+193;186;Language Classes;Subcategory;language-classes-cat-279;279;Classes;Optional;classes;824;821
+193;186;Music - Theatre - Dance Classes;Subcategory;music-theatre-dance-classes-cat-280;280;Classes;Optional;classes;824;821
+193;186;Tutoring - Private Lessons;Subcategory;tutoring-private-lessons-cat-278;278;Classes;Optional;classes;824;821
+193;186;Other Classes;Subcategory;other-classes-cat-283;283;Classes;Optional;classes;824;821
+193;600;Seeds & fertiliser;Subcategory;seeds-fertiliser-cat-605;605;Feeds - Supplements - Seeds;Subcategory;feeds-supplements-cat-603;603;600
+193;821;Business and Industrial;Subcategory;business-and-industrial-cat-825;825;Business - Industrial Equipment;Subcategory;business-industrial-cat-887;887;600
+193;187;Births;Subcategory;births-cat-606;606;Births;Optional;births;401;187
+193;187;Carpool;Subcategory;carpool-cat-248;248;Carpool;Optional;carpool;381;187
+193;187;Community Sports;Subcategory;community-sports-cat-607;607;Sports;Optional;sports;381;187
+193;187;Deaths;Subcategory;deaths-cat-608;608;Deaths;Optional;deaths;401;187
+193;187;Events & Festivals;Subcategory;events-festivals-cat-609;609;Festivals;Optional;festivals;401;187
+193;187;Lost And Found;Subcategory;lost-and-found-cat-413;413;Lost and Found;Optional;lost-found;401;187
+193;187;Markets;Subcategory;markets-cat-610;610;Markets;Optional;markets;381;187
+193;187;Marriages;Subcategory;marriages-cat-611;611;Marriages;Optional;marriages;401;187
+193;187;Musicians - Artists - Bands;Subcategory;musicians-artists-bands-cat-244;244;Concerts;Optional;concerts;381;187
+193;187;Volunteering;Subcategory;volunteering-cat-612;612;Volunteers;Optional;volunteers;381;187
+193;187;Volunteers;Subcategory;volunteers-cat-382;382;Volunteers;Optional;volunteers;381;187

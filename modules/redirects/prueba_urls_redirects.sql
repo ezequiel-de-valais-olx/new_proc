@@ -1,0 +1,12 @@
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '214', '862');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '215', '860');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '364', '860');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id, to_first_level_slug) VALUES ('64', '238', '860', 'libros-cd-dvd');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '243', '861');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '234', '864');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '594', '868');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id, to_first_level_slug) VALUES ('64', '227', '816', 'salud-belleza');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '0', '818');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '0', '363');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id)  VALUES ('64', '0', '388');
+INSERT INTO olx_listing_redirect (country_id, from_category_id, to_category_id, to_first_level_slug) VALUES ('64', '0', '368', 'oficinas-locales');

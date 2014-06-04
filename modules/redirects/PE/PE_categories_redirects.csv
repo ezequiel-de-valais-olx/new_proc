@@ -1,0 +1,9 @@
+Country;Parent ;Current Category;Type;Current URL;Current ID;Category to redirect to;Type;URL to redirect to;New ID
+167;Compra - Venta;Animales;Subcategory;animales-cat-312;312;Animales y Mascotas;Parent;animales-mascotas-cat-811;811
+167;Compra - Venta;Celulares - Teléfonos;Subcategory;celulares-telefonos-cat-219;219;Teléfonos - Tablets;Parent;telefonos-tablets-cat-830;830
+167;Compra - Venta;Fotografía - Imagen - Sonido;Subcategory;fotografia-imagen-sonido-cat-218;218;Cámaras y accesorios;Subcategory;camaras-accesorios-cat-804;804
+167;Compra - Venta;Computadoras - Informática;Subcategory;computadoras-informatica-cat-240;240;Computadoras - Laptops;Subcategory;computadoras-laptops-cat-803;803
+167;Compra - Venta;Video juegos - Consolas ;Subcategory;video-juegos-consolas-cat-209;209;Video Juegos - Consolas;Subcategory;video-juegos-consolas-cat-802;802
+167;Compra - Venta;Tickets & Entradas;Subcategory;tickets-entradas-cat-402;402;Home Page;Home Page;olx.com.pe;0
+167;Autos, motos y barcos;Barcos;Subcategory;barcos-cat-376;376;Barcos y lanchas;Optional;q/barcos-lanchas/c-380;380
+167;Autos, motos y barcos;Casas rodantes - Trailers - Remolques - Caravanas;Subcategory;casas-rodantes-trailers-remolques-caravanas-cat-417;417;Trailers - Casas rodantes;Optional;q/trailers-caravanas-remolques/-380;380

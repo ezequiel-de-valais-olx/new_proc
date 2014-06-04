@@ -1,0 +1,21 @@
+Country_ID;Parent ;Current Category;Type;Current URL;Current ID;Category to redirect to;Type;URL to redirect to;New ID;New Parent
+47;185;Coleccionables - Antiguedades;Subcategory;/colecciones-antiguedades-cat-214;214;Arte - Antiguedades;Subcategory;/arte-antiguedades-cat-862;862;859
+47;185;Libros - Revistas;Subcategory;libros-revistas-cat-215;215;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860;859
+47;185;CD - Discos;Subcategory;cd-disco-cat-364;364;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860;859
+47;185;DVD;Subcategory;dvd-cat-238;238;Libros - CDs - DVDs;Subcategory;libros-cd-dvd-cat-860;860;859
+47;185;Instrumentos Musicales;Subcategory;instrumentos-musicales-cat-243;243;Instrumentos Musicales;Subcategory;instrumentos-musicales-cat-861;861;859
+47;185;Artículos deportivos - bicicletas;Subcategory;articulos-deportivos-bicicletas-cat-234;234;Deportes - Bicicletas;Subcategory;deportes-bicicletas-cat-864;864;859
+47;185;Comercio - Industria;Subcategory;comercio-industria-cat-594;594;Almacenes y Oficinas;Subcategory;almacenes-oficinas-cat-858;868;806
+47;185;Salud y Belleza;Subcategory;salud-y-belleza-cat-227;227;Salud y Belleza;Subcategory;salud-belleza-cat-816;816;815
+47;185;Joyas - Relojes;Subcategory;joyas-relojes-cat-229;229;Relojes - Joyas - Accesorios;Subcategory;relojes-joyas-accesorios-cat-819;818;815
+47;16;Compartir departamento;Subcategory;compartir-departamento-cat-301;301;Apartamentos - Casas para Arrendar;Subcategory;departamento-casa-en-alquiler-cat-363;363;16
+47;16;Intercambio de Casas;Subcategory;intercambio-de-casas-cat-567;567;Arriendo Temporal - Vacaciones;Subcategory;alquiler-temporario-cat-388;388;16
+47;16;Locales en alquiler - en venta;Subcategory;locales-en-alquiler-en-venta-cat-415;415;Oficinas y Locales Comerciales;Subcategory;oficinas-locales-cat-368;368;16
+47;185;Hogar - Jardín - Muebles;Subcategory;hogar-jardin-muebles-cat-228;228;Casa - Muebles - Jardín;Parent;casa-muebles-jardin-cat-806;806;806
+47;185;Electrónica;Subcategory;electronica-cat-366;366;Electrónicos - Video;Parent;electronicos-video-cat-800;800;800
+47;185;Segunda mano;Subcategory;segunda-mano-cat-568;568;Home Page;Home Page;olx.com.co;0;0
+47;185;Ropa - Accesorios;Subcategory;ropa-accesorios-cat-217;217;Ropa y Calzado;Subcategory;ropa-calzado-cat-817;817;815
+47;185;Otras ventas;Subcategory;otras-ventas-cat-210;210;Home Page;Home Page;olx.com.co;0;0
+47;185;Juguetes - Juegos;Subcategory;juguetes-juegos-cat-211;211;Juegos - Juguetes;Subcategory;juegos-juguetes-cat-865;865;859
+47;185;Artículos para Niños y Bebés;Subcategory;articulos-para-ninos-y-bebes-cat-365;365;Bebés y Niños;Subcategory;bebes-ninos-cat-866;866;815
+47;16;Estacionamiento;Subcategory;estacionamiento-cat-302;302;Propiedades - Inmuebles;Parent;inmuebles-y-propiedades-cat-16;16;16
